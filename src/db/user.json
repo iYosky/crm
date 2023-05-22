@@ -1,0 +1,65 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Paulo",
+      "empresa": "Soprodi",
+      "email": "pmazuelac@udd.cl",
+      "phone": "7867956333",
+      "creacion": "11/5/2023",
+      "notas": [
+        {
+          "titulo": "letra de canción",
+          "contenido": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at dignissim augue, id commodo nulla. Praesent auctor blandit mi. Phasellus vel tempor tellus. Duis faucibus iaculis eros quis ultricies. Quisque varius erat ut massa blandit tincidunt eget eu purus. Ut vulputate vehicula imperdiet. Suspendisse tincidunt sem ut odio pharetra, a varius dui porta. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed nisi risus, eleifend eget fermentum vitae, maximus vel odio. Proin a egestas lectus. Vestibulum ac consectetur diam. Mauris congue felis neque, quis varius dolor feugiat in. Cras fringilla est sed quam auctor, eu sodales lectus eleifend. Aenean dui quam, malesuada at augue at, rhoncus dapibus nequeNulla in rhoncus lectus. Vestibulum et iaculis turpis. Integer metus augue, iaculis sed dui sit amet, tristique euismod tortor. Donec sed turpis id erat ultricies malesuada eget et justo. Integer id sodales leo, nec ultrices justo. Aliquam eget turpis egestas, auctor nunc ac, tempor risus. Sed tempus purus nec vulputate convallis. Integer hendrerit felis ac mattis ultricies. Maecenas sit amet mauris nec ex blandit suscipit vitae quis urna.In consectetur tellus ut erat vestibulum, eget aliquet eros dignissim. In velit diam, laoreet sit amet nunc a, auctor mollis tellus. Etiam sit amet ex accumsan, eleifend est id, cursus felis. Curabitur dignissim ante hendrerit, tempor ligula et, faucibus lacus. Morbi porta elementum tincidunt. Morbi convallis leo sit amet nibh condimentum dignissim. Aenean lacinia ac orci at varius.Nullam pretium ante nec ligula rhoncus, eu viverra ante volutpat. Nam et mi nec lacus gravida cursus in vitae mi. Sed et ullamcorper velit. Pellentesque faucibus, nulla eu lobortis vulputate, ligula libero euismod nulla, at vehicula nunc purus eget nibh. Sed ante arcu, sagittis ut nibh eu, scelerisque convallis ipsum. Duis efficitur mi ante, id accumsan nulla bibendum at. Nunc eu quam quis velit mattis cursus. Praesent vulputate in dui id finibus. Sed fringilla, tortor eget ultricies bibendum, lacus massa facilisis augue, vehicula condimentum purus sem quis metus.",
+          "id": 1
+        },
+        {
+          "titulo": "letra de canción dosss",
+          "contenido": "Sed posuere justo at ipsum iaculis, id pharetra ex tempus. Vestibulum vitae eros sapien. Curabitur vulputate ipsum sed erat venenatis, in dictum libero dignissim. Suspendisse potenti. Vivamus placerat erat non venenatis elementum. Vivamus molestie, ipsum non tristique congue, lectus nunc ultrices lorem, nec rutrum purus libero id eros. Fusce orci eros, tristique a enim a, venenatis accumsan nisl. Praesent blandit erat ac posuere interdum. Vivamus hendrerit elit ac enim pulvinar, eleifend semper eros ullamcorper. Ut at dolor eu nisl malesuada dictum in id odio. Nulla sodales risus a vulputate aliquam. Vestibulum ac efficitur sapien. Mauris eu tincidunt dolor. Aenean interdum metus eget lacus fermentum, a varius metus pellentesque. Etiam a nibh massa. Curabitur tellus justo, ultricies in metus tincidunt, accumsan commodo augue.",
+          "id": 2
+        },
+        {
+          "titulo": "rgergerg",
+          "contenido": "gregergerg",
+          "id": 1684467766594
+        },
+        {
+          "titulo": "fwefrwef",
+          "contenido": "fweefw",
+          "id": 1684467796428
+        },
+        {
+          "titulo": "fewfewf",
+          "contenido": "wefwewe",
+          "id": 1684467810410
+        },
+        {
+          "titulo": "ola",
+          "contenido": "fdeger",
+          "id": 1684468097468
+        },
+        {
+          "titulo": "adios",
+          "contenido": "aja",
+          "id": 1684468182255
+        }
+      ]
+    },
+    {
+      "nombre": "Yosky",
+      "empresa": "Comunismo",
+      "email": "Yosky.dm@gmail.com",
+      "phone": "1111111",
+      "titulo": "mi nota",
+      "notas": [
+        {
+          "titulo": "mi nota",
+          "contenido": "hola es mi nota esta jeje",
+          "id": 1
+        }
+      ],
+      "creacion": "18/5/2023",
+      "id": 2
+    }
+  ]
+}
