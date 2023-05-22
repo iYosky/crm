@@ -117,7 +117,7 @@ const ClienteInfo = () => {
                     <input
                       type="submit"
                       className="w-full bg-gray-600 text-white p-3 uppercase font-bold tex-lg hover:bg-gray-800"
-                      value="Registrar Cliente"
+                      value="Agregar Nota"
                     />
                   </div>
                 </Form>
